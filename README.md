@@ -33,7 +33,6 @@ The goal of this project is to learn how to build a full stack application using
 
 - [x] Register and Login
 - [x] Edit Profile
-- [ ] Upload Resume and Profile Picture
 - [x] View all jobs
   - Filter by Job type, Salary, Duration
   - Sort by Rating, Salary, Duration
@@ -65,16 +64,19 @@ The goal of this project is to learn how to build a full stack application using
 
 - Run Express Backend:
 
-sh
-cd backend/
+```bash
+cd backend
 npm install
 npm start
+```
 
 - Run React Frontend:
 
-sh
+```bash
 cd frontend
 npm install
 npm start
+```
+
 
 Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
